@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <restriction
+        android:defaultValue="@string/default_email"
+        android:description="@string/description_email"
+        android:key="email"
+        android:restrictionType="string"
+        android:title="@string/email" />
+    <restriction
+        android:defaultValue="@string/default_password"
+        android:description="@string/description_password"
+        android:key="password"
+        android:restrictionType="string"
+        android:title="@string/default_password" />
+
+
+</restrictions>

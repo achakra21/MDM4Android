@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">email</string>
+    <string name="description_email">user id for the app</string>
+    <string name="default_email">abc@gmail.com</string>
+
+    <string name="password">password</string>
+    <string name="description_password">password for the app</string>
+    <string name="default_password">1111</string>
+
+</resources>
